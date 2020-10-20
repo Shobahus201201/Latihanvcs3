@@ -75,7 +75,7 @@ membuat repository Latihanvcs3)`<br>
 git clone [URL] pada contohnya, saya akan memasukan git clone
 https://github.com/shobahus1/Latihanvcs3.git <br>
 
-![git nama](foto/git nama.PNG)
+![Gitnama](foto/git nama.PNG)
 
 
 
