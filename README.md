@@ -68,7 +68,7 @@ membuat repository Latihanvcs3)`<br>
 
 * Setelah *Link URL git kita tercopy*, Silahkan buka File Explorer pada Windows, kemudian pilih folder dimana kita akan *mendownload* Repository dari Github ke lokal. Kemudian Klik Kanan, Pilih **Git Bash Here**.<br>
 
-! [Gitbash](foto/GitBash.png)
+![Gitbash](foto/GitBash.png) 
 
 
 
