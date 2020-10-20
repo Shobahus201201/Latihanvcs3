@@ -25,7 +25,7 @@ mengetik *syntax* berikut : <br>
 
 ![git version](foto/version.PNG) <br>
 
-*jika muncul tampilan **git version**, berarti Git sudah
+* jika muncul tampilan **git version**, berarti Git sudah
 **berhasil di install** dan bisadi **gunakan** Langkah pertama
 kita **mengkonfirmasikan user name** dan **email di git**,
 dengan mengetikan *syntax* berikut : <br>
@@ -36,10 +36,10 @@ dengan mengetikan *syntax* berikut : <br>
 
 ![Git Config](foto/barugit.PNG)
 
-*buat akun di **GitHub**,seperti contoh dibawah ini. Dan lakukan verifikasi akun melalui 
+* buat akun di **GitHub**,seperti contoh dibawah ini. Dan lakukan verifikasi akun melalui 
 email yang sudah terdaftar.
 
-*jka akun **GitHub** sudah selesai dibuat dan di verifikasi, proses selanjutnya silahkan buat
+* jika akun **GitHub** sudah selesai dibuat dan di verifikasi, proses selanjutnya silahkan buat
 Repository seperti gambar dibawah ini : <br>
 **penjelasan**
 
