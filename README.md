@@ -27,7 +27,7 @@ mengetik *syntax* berikut : <br>
 
 *jika muncul tampilan **git version**, berarti Git sudah
 **berhasil di install** dan bisadi **gunakan** Langkah pertama
-kirus **mengkonfirmasikan user name** dan **email di git**,
+kita **mengkonfirmasikan user name** dan **email di git**,
 dengan mengetikan *syntax* berikut : <br>
 
 `git commit --global user.name"masukan nama anda"` <br>
@@ -40,7 +40,7 @@ dengan mengetikan *syntax* berikut : <br>
 email yang sudah terdaftar.
 
 *jka akun **GitHub** sudah selesai dibuat dan di verifikasi, proses selanjutnya silahkan buat
-Repository sseprti gambar dibawah ini : <br>
+Repository seperti gambar dibawah ini : <br>
 **penjelasan**
 
 > * `Repository Name : (Silahkan isi nama repository yan diinginkan seperti contoh saya ingin
