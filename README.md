@@ -105,4 +105,10 @@ git push <br>
 
 ![Gitpush](foto/gitpush.PNG)
 
+* Semua proses telah selesai, silahkan kembali ke Web Browser untuk melihat perubahan yang telah di *commit* dan *push* dari remote.
+
+![hasilrepository](foto/hasilfile.PNG)
+
+
+
 
