@@ -77,6 +77,11 @@ https://github.com/shobahus1/Latihanvcs3.git <br>
 
 ![Gitnama](foto/gitnama.PNG)
 
+* Setelah proses cloning selesai, pada saat ini kita masih pada folder awal, kita harus masuk kedalam folder yang telah dicloning tadi yaitu *LatihanVCS* dengan mengetikkan *syntax* berikut :
+cd Latihan18/ <br>
+
+![Gitcd](foto/cd.PNG)
+
 
 
 
