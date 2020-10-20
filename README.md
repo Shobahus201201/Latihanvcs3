@@ -16,3 +16,23 @@
 referensi berikut ini : [Git installation guide](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)<br>
 
 ![installing](foto/installing.png)<br>
+
+*setelah installasi selesai,buka**GitBash** pada 
+menu di windows, dan lakukan pengecekan **versi**,dengan 
+mengetik *syntax* berikut : <br
+
+'git --version' <br>
+
+![git version](foto/version.png) <br>
+
+*jika muncul tampilan **git version**, berarti Git sudah
+**berhasil di install** dan bisadi **gunakan** Langkah pertama
+kirus **mengkonfirmasikan user name** dan **email di git**,
+dengan mengetikan *syntax* berikut : <br>
+
+'git commit --global user.name"masukan nama anda"' <br>
+
+'git commit --global user.email "masukin email anda"' <br>
+
+![Git config](foto/barugit.png)
+
