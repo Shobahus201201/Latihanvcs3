@@ -60,7 +60,7 @@ membuat repository Latihanvcs3)`<br>
 
 * Jika repository sudah dibuat maka akan muncul tampilan seperti dibawah ini :<br>
 
-! [Hasil repository](foto/hasilfile.PNG)
+![Hasil repository](foto/hasilfile.PNG)
 
 
 
