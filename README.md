@@ -82,6 +82,7 @@ cd Latihan18/ <br>
 
 ![Gitcd](foto/cd.PNG)
 
+*Saat ini kita sudah masuk kedalam folder *LatihanVCS*, Silahkan edit file README.md yang ada di File Explorer. Bisa menggunakan Text Editor *(Sublime Text, Notepad, Notepad++, Visual Studio Code). Edit sesuai dengan keinginan. Aturan file .md (Markdown) bisa dilihat di Link berikut ini : click here <br>
 
-
+![Hasilrepository](foto/Readme.png)
 
