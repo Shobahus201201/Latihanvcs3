@@ -82,13 +82,13 @@ cd Latihan18/ <br>
 
 ![Gitcd](foto/cd.PNG)
 
-*Saat ini kita sudah masuk kedalam folder *LatihanVCS*, Silahkan edit file README.md yang ada di File Explorer. Bisa menggunakan Text Editor *(Sublime Text, Notepad, Notepad++, Visual Studio Code). Edit sesuai dengan keinginan. Aturan file .md (Markdown) bisa dilihat di Link berikut ini : click here <br>
+* Saat ini kita sudah masuk kedalam folder *LatihanVCS*, Silahkan edit file README.md yang ada di File Explorer. Bisa menggunakan Text Editor *(Sublime Text, Notepad, Notepad++, Visual Studio Code). Edit sesuai dengan keinginan. Aturan file .md (Markdown) bisa dilihat di Link berikut ini : click here <br>
 
 ![Hasilrepository](foto/Readme.png)
 
 Setelah file README.md diedit, silahkan Simpan file tersebut dengan cara **CTRL+S atau File -> Save**
 
-Langkah selanjutnya setelah file disimpan, kita kembali pada App Git Bash **(CMD)**. Ketik pada Git Bash seperti berikut ini :
+* Langkah selanjutnya setelah file disimpan, kita kembali pada App Git Bash **(CMD)**. Ketik pada Git Bash seperti berikut ini :
 
 `git add.`
 
@@ -108,6 +108,8 @@ git push <br>
 * Semua proses telah selesai, silahkan kembali ke Web Browser untuk melihat perubahan yang telah di *commit* dan *push* dari remote.
 
 ![hasilrepository](foto/hasilfile.PNG)
+
+
 
 
 
