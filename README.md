@@ -8,16 +8,16 @@
 
 ## LANGKAH-Langkah Penggunaan Git
 
-*Download git terlebih dahulu,dengan link berikut :[click Here](https://git-scm.com)<br>
+* Download git terlebih dahulu,dengan link berikut :[click Here](https://git-scm.com)<br>
 
 ![gitscm](foto/gitbash2.png)
 
-*setelah file terdownload silahkan lakukan instalasi dengan 
+* setelah file terdownload silahkan lakukan instalasi dengan 
 referensi berikut ini : [Git installation guide](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)<br>
 
 ![installing](foto/installing.png)<br>
 
-*setelah installasi selesai,buka**GitBash** pada 
+* setelah installasi selesai,buka**GitBash** pada 
 menu di windows, dan lakukan pengecekan **versi**,dengan 
 mengetik *syntax* berikut : <br>
 
