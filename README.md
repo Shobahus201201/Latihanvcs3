@@ -17,7 +17,7 @@ referensi berikut ini : [Git installation guide](https://git-scm.com/book/en/v2/
 
 ![installing](foto/installing.png)<br>
 
-* setelah installasi selesai,buka**GitBash** pada 
+* setelah installasi selesai,buka **GitBash** pada 
 menu di windows, dan lakukan pengecekan **versi**,dengan 
 mengetik *syntax* berikut : <br>
 
