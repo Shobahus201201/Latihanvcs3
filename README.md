@@ -23,7 +23,7 @@ mengetik *syntax* berikut : <br
 
 'git --version' <br>
 
-![git version](foto/version.png) <br>
+![git version](foto/version.PNG) <br>
 
 *jika muncul tampilan **git version**, berarti Git sudah
 **berhasil di install** dan bisadi **gunakan** Langkah pertama
@@ -34,5 +34,5 @@ dengan mengetikan *syntax* berikut : <br>
 
 'git commit --global user.email "masukin email anda"' <br>
 
-![Git config](foto/barugit.png)
+![Git Config](foto/barugit.png)
 
