@@ -62,6 +62,10 @@ membuat repository Latihanvcs3)`<br>
 
 ![Hasil repository](foto/hasilfile.PNG)
 
+* Pembuatan akun dan repository pada Github telah selesai, saat ini akan kita lakukan untuk *me-remote* repository Github pada GitBash Lokal. Bagaimana caranya? Langkah pertama kita harus menyalin link *URL git* kita di Github, dengan cara tekan tombol **Code** lalu klik *Copy*.
+
+![Kode link](foto/kode.PNG)
+
 
 
 
