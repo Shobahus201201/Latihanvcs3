@@ -21,7 +21,7 @@ referensi berikut ini : [Git installation guide](https://git-scm.com/book/en/v2/
 menu di windows, dan lakukan pengecekan **versi**,dengan 
 mengetik *syntax* berikut : <br>
 
-'git --version' <br>
+`git --version` <br>
 
 ![git version](foto/version.PNG) <br>
 
@@ -30,11 +30,11 @@ mengetik *syntax* berikut : <br>
 kirus **mengkonfirmasikan user name** dan **email di git**,
 dengan mengetikan *syntax* berikut : <br>
 
-'git commit --global user.name"masukan nama anda"' <br>
+`git commit --global user.name"masukan nama anda"` <br>
 
-'git commit --global user.email "masukin email anda"' <br>
+`git commit --global user.email "masukin email anda"` <br>
 
 ![Git Config](foto/barugit.PNG)
 
-asall
+
 
