@@ -94,10 +94,15 @@ Langkah selanjutnya setelah file disimpan, kita kembali pada App Git Bash **(CMD
 
 ![Gitadd](foto/Gitadd.PNG)
 
-*Setelah selesai melakukan git add . langkah berikutnya kita akan melakukan *commit. Fungsi commit adalah untuk menyimpan perubahan yang dilakukan, tetapi tidak ada perubahan pada remote repository. Ketik pada App Git Bash seperti berikut ini :
+* Setelah selesai melakukan git add . langkah berikutnya kita akan melakukan *commit. Fungsi commit adalah untuk menyimpan perubahan yang dilakukan, tetapi tidak ada perubahan pada remote repository. Ketik pada App Git Bash seperti berikut ini :
 git commit <br>
 `"Update README.md"`
 
 ![Gitcommit](foto/gitnama.PNG)
+
+* Git commit telah selesai di lakukan. Untuk saat ini akan melakuka Git Push, Git Push berfungsi untuk mengirimkan perubahan file setelah di commit ke remote repository. Silahkan ketik pada App Git Bash seperti berikut :
+git push <br>
+
+![Gitpush](foto/gitpush.PNG)
 
 
