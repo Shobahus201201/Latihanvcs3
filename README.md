@@ -107,7 +107,7 @@ git push <br>
 
 * Semua proses telah selesai, silahkan kembali ke Web Browser untuk melihat perubahan yang telah di *commit* dan *push* dari remote.
 
-![hasilrepository](foto/hasilfile.PNG)
+![hasilrepository](foto/Hasil.PNG)
 
 **Sekian Terima Kasih**
 * apabila ada kata kata yang salah dan penulisan saya mohon maaf <br>
