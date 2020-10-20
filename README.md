@@ -86,3 +86,11 @@ cd Latihan18/ <br>
 
 ![Hasilrepository](foto/Readme.png)
 
+Setelah file README.md diedit, silahkan Simpan file tersebut dengan cara **CTRL+S atau File -> Save**
+
+Langkah selanjutnya setelah file disimpan, kita kembali pada App Git Bash **(CMD)**. Ketik pada Git Bash seperti berikut ini :
+
+`git add.`
+
+![Gitadd](foto/Gitadd.PNG)
+
