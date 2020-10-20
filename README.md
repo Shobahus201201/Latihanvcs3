@@ -56,7 +56,8 @@ membuat repository Latihanvcs3)`<br>
 
 > * `Choose a license : Silahkan centang jika Anda memiliki lisensi pada repository yang akan dibuat Kemudian tekan tombol Create Repository untuk menyimpan` <br>
 
-![NAMA repositori](foto/Langkah1.png)
+![NAMA repositori](foto/Langka1.png)
+
 
 
 
