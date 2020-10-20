@@ -70,5 +70,13 @@ membuat repository Latihanvcs3)`<br>
 
 ![Gitbash](foto/GitBash.png) 
 
+*Pop Up* Command Prompt **(CMD)** akan terbuka. Pada proses ini kita akan melakukan download file repository yang tadi dibuat, dengan mengetikkan syntax berikut :
+
+git clone [URL] pada contohnya, saya akan memasukan git clone
+https://github.com/shobahus1/Latihanvcs3.git <br>
+
+![git nama](foto/git nama.PNG)
+
+
 
 
