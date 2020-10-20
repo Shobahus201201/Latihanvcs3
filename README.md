@@ -19,7 +19,7 @@ referensi berikut ini : [Git installation guide](https://git-scm.com/book/en/v2/
 
 *setelah installasi selesai,buka**GitBash** pada 
 menu di windows, dan lakukan pengecekan **versi**,dengan 
-mengetik *syntax* berikut : <br
+mengetik *syntax* berikut : <br>
 
 'git --version' <br>
 
@@ -35,4 +35,6 @@ dengan mengetikan *syntax* berikut : <br>
 'git commit --global user.email "masukin email anda"' <br>
 
 ![Git Config](foto/barugit.png)
+
+asall
 
