@@ -1,14 +1,13 @@
 # Latihanvcs3
 
-**Nama  :SHOBAHUS SOLICHIN**
+**Nama  :SHOBAHUS SOLICHIN** <br>
 
-**NIM  :312010076**
+**NIM  :312010076** <br>
 
-**KELAS :TI.20.A.1**
+**KELAS :TI.20.A.1** <br>
 
 ## LANGKAH-Langkah Penggunaan Git
 
-*Download git terlebih dahulu,dengan link berikut :[click Here]
-(https://git-scm.com)<br>
+*Download git terlebih dahulu,dengan link berikut :[click Here](https://git-scm.com)<br>
 
-![gitscm](foto/git bash 2.png)
+![gitscm](foto/gitbash2.png)
