@@ -34,7 +34,7 @@ dengan mengetikan *syntax* berikut : <br>
 
 'git commit --global user.email "masukin email anda"' <br>
 
-![Git Config](foto/barugit.png)
+![Git Config](foto/barugit.PNG)
 
 asall
 
