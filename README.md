@@ -34,7 +34,7 @@ dengan mengetikan *syntax* berikut : <br>
 
 `git commit --global user.email "masukin email anda"` <br>
 
-![Git Config](foto/barugit.PNG)
+![Git Config](foto/username.PNG)
 
 * buat akun di **GitHub**,seperti contoh dibawah ini. Dan lakukan verifikasi akun melalui 
 email yang sudah terdaftar.
@@ -78,7 +78,7 @@ https://github.com/shobahus1/Latihanvcs3.git <br>
 ![Gitnama](foto/gitclone.PNG)
 
 * Setelah proses cloning selesai, pada saat ini kita masih pada folder awal, kita harus masuk kedalam folder yang telah dicloning tadi yaitu *LatihanVCS* dengan mengetikkan *syntax* berikut :
-cd Latihan18/ <br>
+cd Latihanvcs3/ <br>
 
 ![Gitcd](foto/cd.PNG)
 
