@@ -109,8 +109,8 @@ git push <br>
 
 ![hasilrepository](foto/Hasil.PNG)
 
-**Sekian Terima Kasih**
-* apabila ada kata kata yang salah dan penulisan saya mohon maaf <br>
+##sekian terima kasih##
+apabila ada kata kata yang salah dan penulisan saya mohon maaf <br>
 
 
 
