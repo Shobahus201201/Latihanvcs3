@@ -26,7 +26,7 @@ mengetik *syntax* berikut : <br>
 ![git version](foto/version.PNG) <br>
 
 * jika muncul tampilan **git version**, berarti Git sudah
-**berhasil di install** dan bisadi **gunakan** Langkah pertama
+**berhasil di install** dan bisa di **gunakan** Langkah pertama
 kita **mengkonfirmasikan user name** dan **email di git**,
 dengan mengetikan *syntax* berikut : <br>
 
