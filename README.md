@@ -6,7 +6,7 @@
 
 **KELAS :TI.20.A.1** <br>
 
-## LANGKAH-Langkah Penggunaan Git
+## Langkah-Langkah Penggunaan Git
 
 * Download git terlebih dahulu,dengan link berikut :[click Here](https://git-scm.com)<br>
 
